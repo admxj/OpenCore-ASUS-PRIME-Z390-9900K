@@ -1,0 +1,1 @@
+# OpenCore_ASUS_PRIME_Z390_9900K
