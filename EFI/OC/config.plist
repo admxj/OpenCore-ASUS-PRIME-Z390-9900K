@@ -1034,9 +1034,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02951102J9LNV9CB</string>
+			<string>W863601RHV3G0</string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>513</integer>
 			<key>ROM</key>
 			<data>uAmK2i7r</data>
 			<key>SpoofVendor</key>
@@ -1044,11 +1044,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>MacBook1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZV04MJV3Q</string>
+			<string>W86370AEU9B</string>
 			<key>SystemUUID</key>
-			<string>A4ACF704-9579-4209-9E58-35ADE6677E80</string>
+			<string>2BFD78C3-C3F4-4638-999B-376B4143F8E2</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1084,6 +1084,8 @@
 			<string>Builtin</string>
 			<key>CustomDelays</key>
 			<false/>
+			<key>GraphicsInputMirroring</key>
+			<true/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>

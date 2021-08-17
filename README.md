@@ -48,6 +48,16 @@ OpenCore: ASUS PRIME Z390-A + 9900k + RX5700XT
 
 
 ## **更新日志**
+
+- 2021年08月17日
+    - 升级`OpenCore`到7.2
+    - 升级`Kexts`驱动 `IntelSnowMausi`到1.0.7
+    - 升级`Kexts`驱动 `AppleALC`到1.6.3
+    - 升级`Kexts`驱动 `Lilu`到1.5.5
+    - 升级`Kexts`驱动 `VirtualSMC`到1.2.6
+    - 升级`Kexts`驱动 `WhateverGreen`到1.5.2
+  
+
 - 2021年07月23日
     - 升级`OpenCore`到7.1
     - 升级`Kexts`驱动 `AppleALC`到1.6.2
