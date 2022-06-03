@@ -6,7 +6,6 @@ OpenCore: ASUS PRIME Z390-A + 9900k + RX5700XT
 [OpenCore-Desktop-Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
 
 ## 系统信息
-
 ![system-info.png](./images/system-info.png)
 ![geekbench-cpu.png](./images/geekbench-cpu.png)
 ![geekbench-gpu.png](./images/geekbench-gpu.png)
@@ -48,6 +47,11 @@ OpenCore: ASUS PRIME Z390-A + 9900k + RX5700XT
 
 
 ## **更新日志**
+
+- 2022年06月03日
+  - 升级`OpenCore`到8.0
+  - 升级`Kexts`驱动 `AppleALC`到1.7.1
+  - 升级`Kexts`驱动 `Lilu`到1.6.0
 
 - 2022年03月31日
   - 升级`OpenCore`到7.9
