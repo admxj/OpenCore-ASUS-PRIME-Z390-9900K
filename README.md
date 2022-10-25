@@ -10,6 +10,7 @@ OpenCore: ASUS PRIME Z390-A + 9900k + RX5700XT
 ![geekbench-cpu.png](./images/geekbench-cpu.png)
 ![geekbench-gpu.png](./images/geekbench-gpu.png)
 ![fans.png](./images/fans.png)
+![network.png](./images/network.png)
 
 ## **配置**
 
