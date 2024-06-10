@@ -49,6 +49,12 @@ OpenCore: ASUS PRIME Z390-A + 9900k + RX5700XT
 
 ## **更新日志**
 
+- 2024年06月10日
+  - 升级`OpenCore`到1.0.0
+  - 新增`Intel 82599`万兆网卡驱动
+  - 升级一堆`Kexts`驱动
+  - 升级一堆`Driver`驱动
+
 - 2022年10月26日
   - 升级`OpenCore`到8.5
   - 新增`Intel 82599`万兆网卡驱动
